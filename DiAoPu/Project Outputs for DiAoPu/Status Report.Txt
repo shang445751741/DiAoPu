@@ -1,0 +1,14 @@
+Source PCB Design DiAoPu_Array.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [DiAoPu.PrjPcb]
+   Generated File[DiAoPu_Array.TXT]
+   Generated File[DiAoPu_Array.LDP]
+   Generated File[DiAoPu_Array.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 22:16:13 On 2017/3/5

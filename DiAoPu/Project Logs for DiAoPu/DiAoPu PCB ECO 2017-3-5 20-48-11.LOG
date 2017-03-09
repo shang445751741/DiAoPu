@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=CH1 Pin=J1-1
+Added Pin To Net: NetName=CH2 Pin=J1-2
+Added Pin To Net: NetName=CH3 Pin=J1-3
+Added Pin To Net: NetName=CH4 Pin=J1-4
+Added Pin To Net: NetName=CH7 Pin=J1-5
+Added Pin To Net: NetName=CH8 Pin=J1-6
+Added Pin To Net: NetName=AUX1 Pin=J1-7
+Added Pin To Net: NetName=AUX2 Pin=J1-8
+Added Pin To Net: NetName=SBUS Pin=J1-9
+Added Pin To Net: NetName=SBUS Pin=JP12-1
+Added Net: Name=SBUS
+Added Member To Class: ClassName=DiAoPu Member=Component J1 SM09B-GHS-TB(LF)(SN)

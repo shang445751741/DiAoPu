@@ -1,0 +1,136 @@
+Add component (AddParameter): Name = ">NAME"; Value = "C10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ">VALUE"; Value = "4.7¦ÌF/50V/X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARTNO"; Value = "GRM32ER71H475K"; VariantName = "[No Variations]"
+Added Component: Designator=C1(1210-CAP)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ">NAME"; Value = "C10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ">VALUE"; Value = "4.7¦ÌF/50V/X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARTNO"; Value = "GRM32ER71H475K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "SS24"; VariantName = "[No Variations]"
+Added Component: Designator=D1(DO-214AA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VALUE"; Value = "SS24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "P6SMB36CAT3G"; VariantName = "[No Variations]"
+Added Component: Designator=D2(DO-214AA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VALUE"; Value = "P6SMB36CAT3G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "SM08B-GHS-TB(LF)(SN)"; VariantName = "[No Variations]"
+Added Component: Designator=J1(SM08B-GHS-TB(LF))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VALUE"; Value = "SM08B-GHS-TB(LF)(SN)"; VariantName = "[No Variations]"
+Added Component: Designator=JP1(SJ_3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP2(SJ_3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP3(SJ_3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP4(SJ_3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP5(SJ_3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP6(SJ_3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP7(SJ_3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP8(SJ_3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP9(SJ_3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP10(SJ_3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP11(SJ_3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VALUE"; Value = "BLUE"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(0603-LED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VALUE"; Value = "BLUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "1K 10%"; VariantName = "[No Variations]"
+Added Component: Designator=R1(0603-RES)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VALUE"; Value = "1K 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "10K 5%"; VariantName = "[No Variations]"
+Added Component: Designator=R3(0603-RES)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VALUE"; Value = "10K 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "10K 5%"; VariantName = "[No Variations]"
+Added Component: Designator=R4(0603-RES)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VALUE"; Value = "10K 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "TLP3123(F)"; VariantName = "[No Variations]"
+Added Component: Designator=SSR1(SOP4-2.54)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VALUE"; Value = "TLP3123(F)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AUX1 Pin=J1-7
+Added Pin To Net: NetName=AUX1 Pin=R3-2
+Added Net: Name=AUX1
+Added Pin To Net: NetName=AUX2 Pin=J1-8
+Added Pin To Net: NetName=AUX2 Pin=JP10-1
+Added Net: Name=AUX2
+Added Pin To Net: NetName=CH1 Pin=J1-1
+Added Pin To Net: NetName=CH1 Pin=JP1-1
+Added Pin To Net: NetName=CH1 Pin=JP8-1
+Added Net: Name=CH1
+Added Pin To Net: NetName=CH2 Pin=J1-2
+Added Pin To Net: NetName=CH2 Pin=JP2-1
+Added Pin To Net: NetName=CH2 Pin=JP9-1
+Added Net: Name=CH2
+Added Pin To Net: NetName=CH3 Pin=J1-3
+Added Pin To Net: NetName=CH3 Pin=JP3-1
+Added Net: Name=CH3
+Added Pin To Net: NetName=CH4 Pin=J1-4
+Added Pin To Net: NetName=CH4 Pin=JP4-1
+Added Net: Name=CH4
+Added Pin To Net: NetName=CH7 Pin=J1-5
+Added Pin To Net: NetName=CH7 Pin=JP5-1
+Added Net: Name=CH7
+Added Pin To Net: NetName=CH8 Pin=J1-6
+Added Pin To Net: NetName=CH8 Pin=JP11-1
+Added Net: Name=CH8
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=D2-A
+Added Pin To Net: NetName=GND Pin=JP1-3
+Added Pin To Net: NetName=GND Pin=JP2-3
+Added Pin To Net: NetName=GND Pin=JP3-3
+Added Pin To Net: NetName=GND Pin=JP4-3
+Added Pin To Net: NetName=GND Pin=JP5-3
+Added Pin To Net: NetName=GND Pin=JP6-3
+Added Pin To Net: NetName=GND Pin=JP8-3
+Added Pin To Net: NetName=GND Pin=JP9-3
+Added Pin To Net: NetName=GND Pin=JP10-3
+Added Pin To Net: NetName=GND Pin=JP11-3
+Added Pin To Net: NetName=GND Pin=LED1-C
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=SSR1-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_A Pin=JP6-2
+Added Net: Name=NetD1_A
+Added Pin To Net: NetName=NetJP7_3 Pin=JP7-3
+Added Pin To Net: NetName=NetJP7_3 Pin=R4-2
+Added Pin To Net: NetName=NetJP7_3 Pin=SSR1-3
+Added Net: Name=NetJP7_3
+Added Pin To Net: NetName=NetLED1_A Pin=LED1-A
+Added Pin To Net: NetName=NetLED1_A Pin=R1-2
+Added Net: Name=NetLED1_A
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=SSR1-1
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=Shutter Pin=JP7-1
+Added Pin To Net: NetName=Shutter Pin=SSR1-4
+Added Net: Name=Shutter
+Added Pin To Net: NetName=VCC_5V Pin=C1-1
+Added Pin To Net: NetName=VCC_5V Pin=D1-C
+Added Pin To Net: NetName=VCC_5V Pin=D2-C
+Added Pin To Net: NetName=VCC_5V Pin=JP1-2
+Added Pin To Net: NetName=VCC_5V Pin=JP2-2
+Added Pin To Net: NetName=VCC_5V Pin=JP3-2
+Added Pin To Net: NetName=VCC_5V Pin=JP4-2
+Added Pin To Net: NetName=VCC_5V Pin=JP5-2
+Added Pin To Net: NetName=VCC_5V Pin=JP8-2
+Added Pin To Net: NetName=VCC_5V Pin=JP9-2
+Added Pin To Net: NetName=VCC_5V Pin=JP10-2
+Added Pin To Net: NetName=VCC_5V Pin=JP11-2
+Added Pin To Net: NetName=VCC_5V Pin=R1-1
+Added Net: Name=VCC_5V
+Added Class: Name=DiAoPu
+Added Room: Name=DiAoPu

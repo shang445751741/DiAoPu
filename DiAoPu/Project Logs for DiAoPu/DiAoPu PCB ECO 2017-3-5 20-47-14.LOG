@@ -1,0 +1,5 @@
+Add component (AddParameter): Name = "VALUE"; Value = "SM09B-GHS-TB(LF)(SN)"; VariantName = "[No Variations]"
+Added Component: Designator=J1(SM09B-GHS-TB(LF))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VALUE"; Value = "SM09B-GHS-TB(LF)(SN)"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=DiAoPu Member=Component J1 SM09B-GHS-TB(LF)(SN)
